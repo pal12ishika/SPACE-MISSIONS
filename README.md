@@ -9,3 +9,6 @@ Analysis:-
 3. Which rocket has been used for the most space missions? Is it still active?
 
 4. Are there any patterns you can notice with the launch locations?
+
+LINK
+https://app.powerbi.com/links/-GqBZjaPl1?ctid=f7bb7b78-48f1-4600-b735-fee62bad541e&pbi_source=linkShare
